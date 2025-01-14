@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "dea9d6c2-2893-4ca0-b92d-a320f85aa0b6"
+      }
+    },
+    "owner": "zatk_vn"
   }
 }
