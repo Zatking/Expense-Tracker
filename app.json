@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.zatk_vn.Expense-Tracker"
+      "package": "com.zatk_vn.ExpenseTracker"
     },
     "web": {
       "bundler": "metro",
